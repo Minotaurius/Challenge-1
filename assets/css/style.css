@@ -18,17 +18,17 @@ body {
     color: #ffffff;
 }
 
-/* */
+/* Company name at top of page */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* */
+/* First header option "SEO"  */
 .header h1 .search-engine-optimization {
     color: #d9dcd6;
 }
 
-/* */
+/* Rest of top bar options */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,29 +37,29 @@ body {
     font-size: 20px;
 }
 
-/* */
+/* Removing our dots in list in header */
 .header div ul {
     list-style-type: none;
 }
 
-/* */
+/* Setting margin and inline so list in header is set to the right */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* */
+/* Makes our header list text white */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* */
+/* Setting font for paragraphs for entire HTML document to be same size */
 p {
     font-size: 16px;
 }
 
-/* */
+/* Settings for giant photo below header */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,13 +69,13 @@ p {
     background-position: center;
 }
 
-/* */
+/* CSS to align photos to left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* */
+/* Settings to align Online Reputation Management photos to right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -88,7 +88,7 @@ p {
     margin-left: 20px;
 }
 
-/* */
+/* Side bar to the right settings */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +100,7 @@ p {
     background-color: #2589bd;
 }
 
-/* */
+/* Border below settings */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
