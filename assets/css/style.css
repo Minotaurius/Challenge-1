@@ -81,7 +81,7 @@ p {
     margin-left: 25px;
 }
 
-/* */
+/* Stacking informational banners */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,64 +100,64 @@ p {
     background-color: #2589bd;
 }
 
-/* Border below settings */
+/* Spacing between Lead Generation and Brand Awareness */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* */
+/* Spacing between Brand Awareness and Cost Management*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* */
+/* Spacing between Cost Management and containing div*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* */
+/* spacing underneath Lead Generation */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* */
+/* spacing under Brand Awareness */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* */
+/* spacing underneath Cost Management */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* */
+/* Centering and spacing Lead Generation image */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* */
+/* centering and spacing Brand Awareness image */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* */
+/* centering and spacing Cost Management */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* */
+/*spacing content within banner, formatting text*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -167,7 +167,7 @@ p {
     color: #ffffff;
 }
 
-/* */
+/*spacing content within banner, formatting text*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -177,7 +177,7 @@ p {
     color: #ffffff;
 }
 
-/* */
+/*spacing content within banner, formatting text*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,40 +187,40 @@ p {
     color: #ffffff;
 }
 
-/* */
+/*sizing to fit in banner */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
-/* */
+/*sizing to fit in banner */
 .online-reputation-management img {
     max-height: 200px;
 }
 
-/* */
+/*sizing to fit in banner */
 .social-media-marketing img {
     max-height: 200px;
 }
 
-/* */
+/*sizing title of banner */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* */
+/*sizing title of  banner */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* */
+/*sizing title of banner */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* */
+/* formatting of bottom of page, font and alignment */
 .footer {
     padding: 30px;
     clear: both;
@@ -228,7 +228,7 @@ p {
     text-align: center;
 }
 
-/* */
+/* formatting of text size for Made by Horiseon line*/
 .footer h2 {
     font-size: 20px;
 }
